@@ -1,5 +1,6 @@
 package com.example.myapplication;
 
+// Added comment
 import android.os.Bundle;
 
 import com.github.javiersantos.appupdater.AppUpdater;

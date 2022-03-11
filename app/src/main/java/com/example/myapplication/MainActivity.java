@@ -2,6 +2,8 @@ package com.example.myapplication;
 
 import android.os.Bundle;
 
+
+// THIS IS AN ADDITIONAL TEST
 import com.github.javiersantos.appupdater.AppUpdater;
 import com.github.javiersantos.appupdater.enums.Display;
 import com.github.javiersantos.appupdater.enums.UpdateFrom;
